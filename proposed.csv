@@ -1,0 +1,55 @@
+Name,Food Type,Address,Lat/Lon,Catering?,Delivery?,Order online?,Credit Card?,Locally Owned?,Phone,Website,Dietary Restrictions,Minority Owned,Brown Univ Tenant
+Mi Porcion Restaurant,Dominican,"319 Manton Ave, Providence, RI 02909","41.82312379853029, -71.45054937848529",,Yes,No,,Yes,401-640-0215,https://mi-porcion-restaurant.business.site/,,Yes,N/A
+El Valle Restaurant,Dominican,"235 Manton Ave, Providence, RI 02909","41.821479945000775, -71.44817015128878",,No,No,,Yes,401-632-4888,,,Yes,N/A
+Made in Puerto Rico Restaurant,Puerto Rican,"169 Manton Ave, Providence, RI 02909","41.820106383483946, -71.4465901306047",,Yes,Yes,,Yes,401-837-5455,,,Yes,N/A
+Honduras Restaurant,Honduran,"175 Manton Ave, Providence, RI 02909","41.82004041996679, -71.44661963503646",,No,No,,Yes,401-248-8182,,,Yes,N/A
+"Órale Taqueria",Mexican,"109 Manton Ave, Providence, RI 02909","41.81909507299414, -71.44540640676738",,No,No,,Yes,401-204-3285,,,Yes,N/A
+Taqueria Al Son de Mi Barrio,Mexican/Latino,"109 Manton Ave, Providence, RI 02909","41.818811345014666, -71.44529963896308",,No,No,,Yes,401-536-2372,,,Yes,N/A
+Al Son de Mi Barrio,Mexican,"690 Atwells Ave, Providence, RI 02909","41.82465888771742, -71.43983476940956",,Yes: Grubhub,Yes,,Yes,401-455-1900,https://al-son-de-mi-barrio.edan.io/,,Yes,N/A
+Briana's Restaurant,Salvadorian,"758 Atwells Ave, Providence, RI 02909","41.82501678275565, -71.44212176506343",,No,No,,Yes,401-228-8940,https://brianasrestaurantri.business.site/?utm_source=gmb&utm_medium=referral,,Yes,N/A
+Mi establo restaurant,Mexican,"896 Atwells Ave, Providence, RI 02909","41.825299653421595, -71.44690714326795",,No,No,,Yes,401-421-0950,https://www.restaurantlogin.com/ordering/restaurant/menu?restaurant_uid=a0f152f8-81c4-4448-9a6e-7ebf5bcd66ca,,Yes,N/A
+Troop,American/Latin American,"60 Valley St, Providence, RI 02909","41.81937474205764, -71.44071613684987",,Yes,Yes,,Yes,401-473-2900,https://www.trooppvd.com/,,"Yes Black, Latino, white, female",N/A
+Olneyville New York System Restaurant,Hot dogs,"18 Plainfield St, Providence, RI 02909","41.816481071041494, -71.44403919654327",,Yes,Yes,,Yes (Food Chain),401-621-9500,http://www.olneyvillenewyorksystem.com/,,No? (probably),N/A
+Kennedy Fried Chicken,Fried Chicken,"49 Olneyville Square, Providence, RI 02909","41.816955439467925, -71.44306570151736",,Yes,Yes,,Yes,401-421-0033,,,Not sure,N/A
+Mi Casa,Dominican,"419 Prairie Ave, Providence, RI 02905","41.80294571040667, -71.41384597907796",,Yes,No,,Yes,,,,Yes,N/A
+Aurora Restaurant,Dominican,"516 Prairie Ave, Providence, RI 02905","41.80013380903649, -71.41227506438726",,No,No,,Yes,401-941-0608,https://vuyo.me/en-view.php?seo=aurora-restaurant-752561,,Yes,
+Carolina Family Restaurant,Dominican,"864 Broad St, Providence, RI 02907","41.800564965906005, -71.41728019215788",,No,No,,Yes,(401) 941-1333,https://carolinasri.com/,,Yes,N/A
+Crown Fried Chicken,Fried Chicken,"912 Broad St, Providence, RI 02907","41.799438956432645, -71.41582871738562",,yes (google),Yes,Yes,Yes (Food Chain),(401) 941-3100,https://www.facebook.com/CrownFriedChickenProv/,Halal chicken,Not sure,
+Yang Restaurant,Chinese,"924 Broad St, Providence, RI 02907","41.79922299863303, -71.41563160050133",,yes (google),,,,,,,,
+La Broa' Pizzeria,Pizza,"925 Broad St, Providence, RI 02907","41.799201836058074, -71.41581681382495",No,yes (google),Yes,Yes,Yes,(401)270-4884,https://www.labroapizza.com/,,Not sure,
+La Gran Parada,Latinx,"937 Broad St, Providence, RI 02905","41.79888683525464, -71.41542527131692",Yes,No,No,Yes,Yes,(401) 941-4610,https://www.lagranparada.com/,Kinda?,Yes,
+Brother's Famous Pizza,Pizza,"950 Broad St, Providence, RI 02905","41.79899296023173, -71.41399400039255",,Not sure-conflicting info online,No,,Yes,(401) 461 3760,N/A,,Not sure,N/A
+El Ninja Providence,Sushi/Latin American,"1007 Broad St, Providence, RI 02905","41.79721668862455, -71.4138230021834",,Yes,,,,(401) 467-2581,https://elninja.net/menu-full/,,,
+Pito Restaurant,Dominican,"1029 Broad St, Providence, RI 02905","41.79674798073369, -71.4131520021834",,No (google),,,,(401) 941-4320,https://www.facebook.com/pages/Pito-Restaurant/115570388472276,,,
+El Fogon Latino Restaurant,Latinx,"1100 Broad St, Providence, RI 02905","41.79544648325956, -71.41092147149729",,Yes,No,,Yes,(401) 383-8239,https://elfogonlatinoresta.wixsite.com/restaurant,,Yes,N/A
+La Lupita Tacos Mexicanos,Mexican,"1950 Westminster St, Providence, RI 02909","41.81652043095554, -71.44266110033246", ,Yes,Yes,Yes,Yes,(401) 331-2444,http://www.lalupitamex.com/,,Yes,N/A
+Chengdu Taste,Chinese,"495 Smith St, Providence, RI 02908","41.836000, -71.427240",Unknown,Yes,Yes,Yes,Yes,401-729-5699,https://chengdutasteonline.com/,,,
+Paris Bistro Cafe & Lounge,Bar Food,"375 Smith St, Providence, RI 02908","41.834708, -71.424130",Yes,Yes,Yes,Yes,Yes,14016426342,https://parisbistro401.com/,,,
+Nueva San Salvador Bakery,Salvadoran,"1075 Chalkstone Ave, Providence, RI 02908","41.832524964304945, -71.44354263788546",No,No,No,Yes?,Yes,14013835611,https://www.restaurantji.com/ri/providence/nueva-san-salvador-bakery-/,Unknown,Unknown,Unknown
+Los Andes,Peruvian,"903 Chalkstone Ave, Providence, RI 02908","41.83317421101726, -71.43734354463298",Yes,Yes,Yes,Yes,,(401) 649-4911,https://losandesri.com/,,,
+Geegee's Southern,Southern,"539 Smith St, Providence, RI 02908","41.836187, -71.428815",Yes,Yes,Yes,Yes,Yes,14019198090,https://geegeessouthern.wixsite.com/geegees,Few veg options,Yes,
+The Corner Grill,"Halal, burgers","834 Admiral St, Providence, RI 02904","41.851324, -71.444236",No,Third Party,Third Party,Yes,Yes,14013312518,,,Yes,
+Providence Biryani,"Indian, Nepali","65 Bath Street, Providence, RI 02908","41.832119, -71.424013",Unknown,Unknown,No,Yes,Yes,(401) 354-9426,https://providence-biryani.business.site/,Vegan options,,
+Kebbeh African Restaurant,West African,"850 Admiral St, Providence, RI 02904","41.85148997749651, -71.44474096754053",Unknown,No,Yes,Yes,Yes,14016968767,https://kebbehafricanprovidence.com/,,,
+Sommer's Corner,Soul Food,"1230 Elmwood Ave, Providence, RI 02907","41.77782497071313, -71.42068638684093",,Yes,,,,401-228-7070,,,,
+Troop,American,"60 Valley St, Providence, RI 02909","41.81913380503839, -71.4407215733469",,,,,,,,,,
+Garden Of Eve Caribbean Cuisine,Caribbean,"405 Harris Ave, Providence, RI 02909","41.825037684263, -71.43370614266065",,Yes:Grubhub or Uber eats,No,Yes,Yes,14016885166,http://gardenofevepvd.com/,,Yes,
+The Stack House,Chicken and waffles,"65 Bath St, Providence RI 02908","41.83183044401444, -71.42413648868944",No,Third Party,Third Party,,,,https://www.instagram.com/stackhousepvd/,Few veg options,Yes,
+Sazon Bandit,,"840 Allens Ave, Providence, RI 02905","41.79190798828381, -71.39657940218353",,Yes,,,,N\A,,,Yes,
+Terra Luna Café Providence,,"57 De Pasquale Ave, Providence, RI 02903","41.8242462155747, -71.42708136413135",,,,,,,,,,
+Flames,,"734 Eddy St, Providence, RI 02903","41.80810491436404, -71.40694781567572",,,,,,,,,,
+Kin Southern Table + Bar,,"71 Washington St, Providence, RI 02903","41.82373508897554, -71.41400975985395",,,,,,,https://www.kinpvd.com/,,,
+10 Rocks,Tapas,"1091 Main St. Pawtucket, RI 02860","41.860458, -71.398992",Yes,Yes,Yes,Yes,Yes,(401) 728-0800,https://10rockstapasbar.com/,Few veg options,Yes,
+Island House Restaurant,Jamaican ,"242 Broad St, Providence, RI 02903","41.815880426011596, -71.4198131040331",,,,,,,https://islandhouserestaurantri.com/,No veg options,,
+Toyin African Restaurant,West African,"45D Central St, Providence, RI 02907","41.814122316009495, -71.42252916964644",,Yes,No,,,401-263-0234,N\A,Unknown,Unknown,
+Deddeh's Kitchen,,"418 Pine St, Providence, RI 02903","41.81402547044023, -71.4176870205468",,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,"Olneyville, Elmwood, Mt. Pleasant, Elmhurst",,,,,,,,,,,
+,,"https://providenceonline.com/stories/40plus-black-owned-restaurants-in-rhode-island-you-must-try,35498",,,,,,,,,,,
+,,https://www.rimonthly.com/blackownedbusinesses/,,,,,,,,,,,

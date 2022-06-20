@@ -1,0 +1,15 @@
+Name,Food Type,Address,Lat/Lon,Delivery?,Order online?,Credit Card?,Locally Owned?,Phone,Website,Dietary Restrictions,Minority Ownned,Brown Tenant
+Butcher Shop,Sandwiches/Deli,"157 Elmgrove Ave, Providence, RI 02906","41.83494513137936, -71.390650200312",Yes,,,,(401) 861-4627,http://elmgrovedeli.com/,,,
+Dominos (Brown),Pizza,"887 N Main St, Providence, RI 02904","41.84469888477832, -71.40598505985328",Yes,Yes,Yes,No,(401) 861-1200,https://www.dominos.com/en/?utm_source=google&utm_medium=loclist&utm_campaign=localmaps,,No,
+Fresh Eats by Russel Morin,American,"95 Frank Mossberg Dr, Attleboro, MA 02703","41.920884417538055, -71.325379015672",Yes,,,,(508) 226-6600,http://www.morins.com/images/uploads/2013_Express_Menu.pdf,,,
+Fireworks Catering,Italian,"840 Allens Avenue, Providence RI 02905","41.79220614612376, -71.39670371935918",Yes,Yes,Yes,Yes,(401) 831-9221,https://www.fireworkscatering.net/,Not the best,Not sure,
+Kabob and Curry,Indian and vegan,"261 Thayer St, Providence, RI 02906","41.82893016980977, -71.40062272501669",Yes,Yes,Yes,Yes,(401) 273-8844,https://www.kabobandcurry.com/,Everything,Yes,
+Mexico Garibaldi,Mexican,"948 Atwells Ave, Providence, RI 02909","41.82491509429338, -71.4488882156752",Yes,,,,(401) 331-4985,http://places.singleplatform.com/restaurant-mexico-garibaldi/menu?ref=google,,,
+Piezoni's,Pizza,"969 Broadway, East Providence, RI 02914","41.81429668661928, -71.37065238313915",Yes,Yes,Yes,Family chain,(401) 431-5900,https://piezonis.com/,,,
+Pizza Pie-er,Pizza,"374 Wickenden St, Providence, RI 02903","41.819689, -71.395778",Yes,Yes,Yes,,(401) 351-3663,http://www.pizzapie-er.com/,,,
+Pranzi,"American, Italian, Greek ","10 Rosario Dr, Providence, RI 02909","41.80533112316062, -71.4616730580043",Yes,Yes,Yes,Yes,14013833631,http://www.pranzi.com/,,,
+Rue Bis,"American, French","95 South St, Providence, RI 02903","41.816811, -71.409249",Yes,No,Yes,Yes,14014909966,https://www.ruebis.com/,,,
+Taste of India,Indian,"230 Wickenden St, Providence, RI 02903","41.819442, -71.398697",Yes,No,Yes,Yes,14014214355,https://www.facebook.com/TasteOfIndiaRI/,,,
+The Catering Gourmet,American,"333 Strawberry Field Rd, Warwick, RI 02886","41.715705, -71.428641",Yes,Yes,Yes,Yes,14017737925,http://www.thecateringgourmet.net/,,No,No
+Tova's Catering,American,"253 Mansfield Ave, Norton, MA 02766","41.991616, -71.210460",Yes,Yes,Yes,Yes,508-286-2242,http://www.tovascatering.com/index.php,Kosher,woman,no
+Wholefoods,American,,,,,,,,,,,
